@@ -15,7 +15,7 @@
     </dependency>
   </dependencies>
   <distributionManagement>
-	  <!-- Demo from HitHub --!>
+	  <!-- Demo from HitHub -->
 
 		<repository>
 			<id>Maven-release</id>
